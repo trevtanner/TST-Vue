@@ -68,7 +68,7 @@
     export default {
             data: function() {
                 return {
-                    src: require('/opt/lampp/htdocs/projects/TTS-Vue/public/img/resume-section.jpg'),
+                    src: require('/opt/lampp/htdocs/projects/tt-web-dev/TTS-Vue/public/img/resume-section.jpg'),
                     fields: ['everyday_use', 'previous_experience'],
                     items: [
                         { everyday_use:'Laravel', previous_experience:'Visual Studio // Visual Basic'},

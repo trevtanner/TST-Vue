@@ -99,9 +99,9 @@
     export default {
         data: function () {
             return {
-                src1: require('/opt/lampp/htdocs/projects/TTS-Vue/public/img/plansedited.jpg'),
-                src2: require('/opt/lampp/htdocs/projects/TTS-Vue/public/img/whiteboardedited.jpg'),
-                src3: require('/opt/lampp/htdocs/projects/TTS-Vue/public/img/computer.jpg'),
+                src1: require('/opt/lampp/htdocs/projects/tt-web-dev/TTS-Vue/public/img/plansedited.jpg'),
+                src2: require('/opt/lampp/htdocs/projects/tt-web-dev/TTS-Vue/public/img/whiteboardedited.jpg'),
+                src3: require('/opt/lampp/htdocs/projects/tt-web-dev/TTS-Vue/public/img/computer.jpg'),
                 hover1: false,
                 hover2: false,
                 hover3: false,

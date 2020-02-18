@@ -25,7 +25,7 @@
     export default {
         data: function () {
             return {
-                src: require('/opt/lampp/htdocs/projects/TTS-Vue/public/img/TTlogoBlkBG50.jpg'),
+                src: require('/opt/lampp/htdocs/projects/tt-web-dev/TTS-Vue/public/img/TTlogoBlkBG50.jpg'),
                 loaded: false,
             }
         }

@@ -86,6 +86,7 @@ import TrevorSTanner from "./assets/projects/TrevorSTanner";
 import TTS from "./assets/projects/TamaTeamSports"
 import {from} from "bootstrap-vue/esm/utils/array";
 
+
 const router = new VueRouter({
     mode: 'history',
     routes: [

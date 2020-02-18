@@ -51,11 +51,11 @@
         name: "TrevorSTanner",
         data: function () {
             return {
-                srchome: require('/opt/lampp/htdocs/projects/TTS-Vue/public/img/sgb/TSTHomeSG.jpg'),
-                srcabout: require('/opt/lampp/htdocs/projects/TTS-Vue/public/img/sgb/TSTAboutSG.jpg'),
-                srcportfolio: require('/opt/lampp/htdocs/projects/TTS-Vue/public/img/sgb/TSTPortfolioSG.jpg'),
-                srcresume: require('/opt/lampp/htdocs/projects/TTS-Vue/public/img/sgb/TSTResumeSG.jpg'),
-                srccontact: require('/opt/lampp/htdocs/projects/TTS-Vue/public/img/sgb/TSTContactSG.jpg'),
+                srchome: require('/opt/lampp/htdocs/projects/tt-web-dev/TTS-Vue/public/img/sgb/TSTHomeSG.jpg'),
+                srcabout: require('/opt/lampp/htdocs/projects/tt-web-dev/TTS-Vue/public/img/sgb/TSTAboutSG.jpg'),
+                srcportfolio: require('/opt/lampp/htdocs/projects/tt-web-dev/TTS-Vue/public/img/sgb/TSTPortfolioSG.jpg'),
+                srcresume: require('/opt/lampp/htdocs/projects/tt-web-dev/TTS-Vue/public/img/sgb/TSTResumeSG.jpg'),
+                srccontact: require('/opt/lampp/htdocs/projects/tt-web-dev/TTS-Vue/public/img/sgb/TSTContactSG.jpg'),
             }
         }
     }

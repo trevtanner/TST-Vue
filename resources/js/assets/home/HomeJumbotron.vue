@@ -34,7 +34,7 @@
     export default {
         data: function () {
             return {
-                src: require('/opt/lampp/htdocs/projects/TTS-Vue/public/img/homepage-img.jpg'),
+                src: require('/opt/lampp/htdocs/projects/tt-web-dev/TTS-Vue/public/img/homepage-img.jpg'),
                 loaded: false,
                 }
         },

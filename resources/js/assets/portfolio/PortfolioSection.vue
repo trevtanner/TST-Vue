@@ -110,9 +110,9 @@
                 hover1: false,
                 hover2: false,
                 hover3: false,
-                srctst: require('/opt/lampp/htdocs/projects/TTS-Vue/public/img/tst-project.jpg'),
-                srctts: require('/opt/lampp/htdocs/projects/TTS-Vue/public/img/tts-project.jpg'),
-                srcblog: require('/opt/lampp/htdocs/projects/TTS-Vue/public/img/ttblog-project.jpg'),
+                srctst: require('/opt/lampp/htdocs/projects/tt-web-dev/TTS-Vue/public/img/tst-project.jpg'),
+                srctts: require('/opt/lampp/htdocs/projects/tt-web-dev/TTS-Vue/public/img/tts-project.jpg'),
+                srcblog: require('/opt/lampp/htdocs/projects/tt-web-dev/TTS-Vue/public/img/ttblog-project.jpg'),
 
             }
         },

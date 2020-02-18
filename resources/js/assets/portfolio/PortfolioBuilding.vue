@@ -32,7 +32,7 @@
     export default {
         data: function () {
             return {
-                src: require('/opt/lampp/htdocs/projects/TTS-Vue/public/img/personaldesk.jpg'),
+                src: require('/opt/lampp/htdocs/projects/tt-web-dev/TTS-Vue/public/img/personaldesk.jpg'),
             }
         },
     }
