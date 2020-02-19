@@ -14,8 +14,8 @@ const mix = require('laravel-mix');
 mix.js('resources/js/app.js', 'public/js')
    .sass('resources/sass/app.scss', 'public/css');
 
-var path = require('path')
-var PreenderSpaPlugin = require('prerender-spa-plugin')
+var path = require('path');
+var PreenderSpaPlugin = require('prerender-spa-plugin');
 module.exports = {
     //...
     plugins: [
@@ -26,4 +26,4 @@ module.exports = {
             ['/', '/home', '/about', '/portfolio', '/resume', 'contact']
         )
     ]
-}
+};
