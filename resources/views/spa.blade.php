@@ -4,7 +4,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="Trevor Tanner | TT Web Development & Design">
-    <link rel="icon" href="/public/TTlogoBlkBG.ico">
+    <meta name="description" content="TT Web Development & Design, founded in 2019 provides a client minded experience
+    when it comes building a website for whatever your needs may be. From personal websites to fully scaled professional
+    business websites, TT Web Development & Design has you covered.">
     <meta name="keywords"
           content="Trevor, Tanner, Web Development, Web Design, Trevor S Tanner, Full Stack, Custom Website, Trevor Tanner, Laravel, PHP, Vue.js"
     >
@@ -12,6 +14,9 @@
 
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
+
+    <!-- icon -->
+    <link rel="shortcut icon" href="{{ asset('TTlogoBlkBG.ico') }}">
 
     <!-- Scripts -->
 

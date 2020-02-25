@@ -84,6 +84,7 @@ import Contact from "./assets/views/Contact";
 import Privacy from "./assets/views/PrivacyPolicy"
 import TrevorSTanner from "./assets/projects/TrevorSTanner";
 import TTS from "./assets/projects/TamaTeamSports"
+// import Wedding from "./assets/views/Wedding";
 import {from} from "bootstrap-vue/esm/utils/array";
 
 
@@ -140,6 +141,11 @@ const router = new VueRouter({
             name: 'tts',
             component: TTS
         },
+        // {
+        //     path: '/wedding',
+        //     name: 'wedding',
+        //     component: Wedding
+        // },
     ]
 });
 
