@@ -84,6 +84,7 @@ import Contact from "./assets/views/Contact";
 import Privacy from "./assets/views/PrivacyPolicy"
 import TrevorSTanner from "./assets/projects/TrevorSTanner";
 import TTS from "./assets/projects/TamaTeamSports"
+import PageNotFound from "./components/layout/PageNotFound"
 // import Wedding from "./assets/views/Wedding";
 import {from} from "bootstrap-vue/esm/utils/array";
 
@@ -146,6 +147,11 @@ const router = new VueRouter({
         //     name: 'wedding',
         //     component: Wedding
         // },
+        {
+            path: "*",
+            component: PageNotFound
+        }
+
     ]
 });
 
